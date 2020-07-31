@@ -203,6 +203,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1280px) {
 
+			
 			.container {
 				width: 960px;
 			}
@@ -1729,7 +1730,7 @@ input, select, textarea {
 
 	header.special {
 		margin-bottom: 5em;
-		padding-top: 7em;
+		padding-top: 0.2em;
 		position: relative;
 		text-align: center;
 	}
@@ -2219,7 +2220,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 5em;
+		margin-bottom: 0.2em;
 		padding: 5em;
 	}
 
@@ -2543,7 +2544,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl2.svg"), url("images/light-br2.svg"), url("images/overlay2.png"), url("../../images/banner.jpg");
+		background-image: url("images/light-bl2.svg"), url("images/light-br2.svg"), url("images/overlay2.png"), url("../../images/banner2.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -2633,7 +2634,7 @@ input, select, textarea {
 			}
 
 	body.index #main {
-		padding-top: 2em;
+		padding-top: 0.2em;
 	}
 
 /* CTA */
@@ -2750,6 +2751,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
+				padding: 11em;
 				background-attachment: scroll;
 			}
 
@@ -2863,7 +2865,7 @@ input, select, textarea {
 
 			header.special {
 				margin-bottom: 4em;
-				padding-top: 5em;
+				padding-top: 0.2em;
 			}
 
 				header.special:before, header.special:after {
