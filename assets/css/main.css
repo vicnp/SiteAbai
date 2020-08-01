@@ -112,7 +112,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		color: #3fb1a3;
+		color: #0d7495;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -1902,6 +1902,7 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		position: relative;
+		padding: 0.2em;
 	}
 
 		.icon:before {
@@ -2555,6 +2556,7 @@ input, select, textarea {
 	}
 
 		#banner .inner {
+			
 			-moz-animation: reveal-banner 1s 0.25s ease-in-out;
 			-webkit-animation: reveal-banner 1s 0.25s ease-in-out;
 			-ms-animation: reveal-banner 1s 0.25s ease-in-out;
@@ -2569,6 +2571,7 @@ input, select, textarea {
 			opacity: 0;
 			padding: 3em;
 			text-align: center;
+			
 		}
 
 			#banner .inner header {
