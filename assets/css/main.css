@@ -1852,6 +1852,7 @@ input, select, textarea {
 		border: 0;
 		position: relative;
 	}
+
 	.imagefeat img{
 		padding: 15px;
 		width: 60%;
@@ -1867,7 +1868,7 @@ input, select, textarea {
 			top: 0;
 			width: 100%;
 		}
-
+ 
 		.image.fit {
 			display: block;
 		}
@@ -2948,7 +2949,7 @@ input, select, textarea {
 			}
 
 		/* Main */
-
+			
 			#main {
 				padding: 5em 0;
 			}
